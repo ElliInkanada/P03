@@ -1,0 +1,9 @@
+\BOOKMARK [0][-]{chapter.1}{Theoretical\040part}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Circuit\040calculation}{chapter.1}% 2
+\BOOKMARK [0][-]{chapter.2}{Practical\040part}{}% 3
+\BOOKMARK [1][-]{section.2.1}{Work\040with\040GEDA\040programs}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.1.1}{Work\040with\040gschem}{section.2.1}% 5
+\BOOKMARK [2][-]{subsection.2.1.2}{Work\040with\040gnetlist}{section.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.1.3}{Work\040with\040ngspice}{section.2.1}% 7
+\BOOKMARK [1][-]{section.2.2}{Work\040with\040QUCS\040programs}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Work\040with\040LaTeX}{chapter.2}% 9

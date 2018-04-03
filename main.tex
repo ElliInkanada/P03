@@ -4,7 +4,7 @@
 \usepackage{tabularx}
 \usepackage{listings}
 \usepackage{float}
-\usepackage[siunitx,europeanresistors,americaninductors]{circuitikz}
+\usepackage{circuitikz}
 \usepackage{pgfplots}
 \usepackage[
 	colorlinks=true,
@@ -37,6 +37,7 @@ For an overview over all values see table \ref{values}.
 
 \begin{figure}
     \centering
+\label{circuit}
     \begin{circuitikz}
 \draw
 (0,0) to [european resistor, l=$R_1$ ] (6,0)
